@@ -1,5 +1,6 @@
 package uz.urinboydev.oliytaliminfo.adapter
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.net.Uri
 import android.view.LayoutInflater
@@ -12,6 +13,7 @@ import uz.urinboydev.oliytaliminfo.ui.WebViewActivity
 class UniversityAdapter : RecyclerView.Adapter<UniversityAdapter.UniversityViewHolder>() {
     private var universities = listOf<University>()
 
+    @SuppressLint("NotifyDataSetChanged")
     fun setUniversities(newUniversities: List<University>) {
         universities = newUniversities
         notifyDataSetChanged()
@@ -52,21 +54,4 @@ class UniversityAdapter : RecyclerView.Adapter<UniversityAdapter.UniversityViewH
         }
     }
 
-//    class UniversityViewHolder(private val binding: ItemUniversityBinding) :
-//        RecyclerView.ViewHolder(binding.root) {
-//
-//        fun bind(university: University) {
-//            binding.apply {
-//                universityNameTextView.text = university.name
-//                regionTextView.text = university.region
-//                ownershipTypeTextView.text = university.ownershipType
-//
-//                // websiteTextView o'rniga websiteButton ishlatiladi
-//                websiteButton.setOnClickListener {
-//                    val intent = Intent(Intent.ACTION_VIEW, Uri.parse(university.websiteUrl))
-//                    itemView.context.startActivity(intent)
-//                }
-//            }
-//        }
-//    }
 }
