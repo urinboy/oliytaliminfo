@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oliy Ta\'lim Info</string>
+    <string name="search_hint">OTM qidirish</string>
+    <string name="all_universities">Barcha OTMlar</string>
+    <string name="state_universities">Davlat</string>
+    <string name="private_universities">Nodavlat</string>
+    <string name="visit_website">Veb-saytga o\'tish</string>
+</resources>

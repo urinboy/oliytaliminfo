@@ -1,0 +1,1466 @@
+{
+  "oliy_talim_muassasalari": [
+    {
+      "id": 1,
+      "OTMnomi": "Acharya Universiteti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.acharya.uz/"
+    },
+    {
+      "id": 2,
+      "OTMnomi": "Alfraganus universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.afu.uz/uz"
+    },
+    {
+      "id": 3,
+      "OTMnomi": "Amerika texnologiyalar universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://aut-edu.uz/"
+    },
+    {
+      "id": 4,
+      "OTMnomi": "Andijon davlat chet tillari instituti",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://adchti.uz/"
+    },
+    {
+      "id": 5,
+      "OTMnomi": "Andijon davlat pedagogika instituti",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://adpi.uz/"
+    },
+    {
+      "id": 6,
+      "OTMnomi": "Andijon davlat tibbiyot instituti",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://adti.uz/institut/umumiy-malumotlar/"
+    },
+    {
+      "id": 7,
+      "OTMnomi": "Andijon davlat universiteti",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://adu.uz/"
+    },
+    {
+      "id": 8,
+      "OTMnomi": "Andijon iqtisodiyot va qurilish instituti",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://eduaiqi.uz/"
+    },
+    {
+      "id": 9,
+      "OTMnomi": "Andijon qishloq xo‘jaligi va agrotexnologiyalar instituti",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://andqxai.uz/"
+    },
+    {
+      "id": 10,
+      "OTMnomi": "Angren universiteti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://ac.auni.uz/"
+    },
+    {
+      "id": 11,
+      "OTMnomi": "Aniq va ijtimoiy fanlar universiteti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://aifu.uz/"
+    },
+    {
+      "id": 12,
+      "OTMnomi": "Astraxan davlat texnika universitetining Toshkent viloyatidagi filiali",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://astu.uz/"
+    },
+    {
+      "id": 13,
+      "OTMnomi": "Axborot Texnologiyalari va menejment universiteti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://atmu.uz/"
+    },
+    {
+      "id": 14,
+      "OTMnomi": "Berdaq nomidagi Qoraqalpoq davlat universiteti",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://karsu.uz/uz"
+    },
+    {
+      "id": 15,
+      "OTMnomi": "Botir Zokirov nomidagi Milliy estrada san'ati instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://estrada-art.uz/botir-zokirov-nomidagi-milliy-estrada-sanati-instituti-bitiruvchilari-uchun-bitiruvchi-2024-tadbiri-tashkil-etildi/"
+    },
+    {
+      "id": 16,
+      "OTMnomi": "British Management University in Tashkent",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://bmu-edu.uz/"
+    },
+    {
+      "id": 17,
+      "OTMnomi": "Buxoro davlat pedagogika instituti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://buxdpi.uz/"
+    },
+    {
+      "id": 18,
+      "OTMnomi": "Buxoro davlat tibbiyot instituti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://bsmi.uz/"
+    },
+    {
+      "id": 19,
+      "OTMnomi": "Buxoro davlat universiteti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://buxdu.uz/"
+    },
+    {
+      "id": 20,
+      "OTMnomi": "Buxoro innovatsion ta'lim va tibbiyot universiteti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://bimu.uz/main"
+    },
+    {
+      "id": 21,
+      "OTMnomi": "Buxoro innovatsiyalar universiteti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://bui.uz/uz/"
+    },
+    {
+      "id": 22,
+      "OTMnomi": "Buxoro muhandislik-texnologiya instituti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://bmti.uz/"
+    },
+    {
+      "id": 23,
+      "OTMnomi": "Buxoro psixologiya va xorijiy tillar instituti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://buxpxti.uz/"
+    },
+    {
+      "id": 24,
+      "OTMnomi": "Central Asian Medical University tibbiyot universiteti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://camuf.uz/"
+    },
+    {
+      "id": 25,
+      "OTMnomi": "Central Asian University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://centralasian.uz/#popup:cornerform"
+    },
+    {
+      "id": 26,
+      "OTMnomi": "Chirchiq davlat pedagogika universiteti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://cspu.uz/"
+    },
+    {
+      "id": 27,
+      "OTMnomi": "D.I.Mendeleev nomidagi Rossiya kimyo-texnologiya universiteti Federal davlat byudjeti oliy taʼlim muassasasining Toshkent filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://muctr.uz/ru"
+    },
+    {
+      "id": 28,
+      "OTMnomi": "Digital university",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://idu.uz/"
+    },
+    {
+      "id": 29,
+      "OTMnomi": "Diplomat University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://diplomat.university/uz/"
+    },
+    {
+      "id": 30,
+      "OTMnomi": "EMU-UNIVERSITY",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://emuni.uz/en/home-page/"
+    },
+    {
+      "id": 31,
+      "OTMnomi": "Farg‘ona davlat universiteti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://fdu.uz/"
+    },
+    {
+      "id": 32,
+      "OTMnomi": "Farg‘ona jamoat salomatligi tibbiyot instituti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://fjsti.uz/"
+    },
+    {
+      "id": 33,
+      "OTMnomi": "Farg‘ona politexnika instituti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.ferpi.uz/"
+    },
+    {
+      "id": 34,
+      "OTMnomi": "Farg'ona shahridagi Koreya xalqaro universiteti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.ukiu.uz/uz/"
+    },
+    {
+      "id": 35,
+      "OTMnomi": "Farmatsevtika ta'lim va tadqiqot instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://ftti.uz/"
+    },
+    {
+      "id": 36,
+      "OTMnomi": "Federal davlat avtonom oliy taʼlim muassasasi Milliy texnologik tadqiqotlar universiteti MISiS ning Olmaliq shahridagi filiali",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://akadem.uz/university/federal-davlat-avtonom-oliy-talim-muassasasi-milliy-texnologik-tadqiqotlar-universiteti-misisning-olmaliq-shahridagi-filiali"
+    },
+    {
+      "id": 37,
+      "OTMnomi": "G.V.Plexanov nomli Rossiya iqtisodiyot universiteti Toshkent filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://reu.uz/uz/universitet-haqida/"
+    },
+    {
+      "id": 38,
+      "OTMnomi": "Geologiya fanlari universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzgeouniver.uz/uz"
+    },
+    {
+      "id": 39,
+      "OTMnomi": "Guliston davlat pedagogika instituti",
+      "Viloyati": "Sirdaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://gspi.uz/"
+    },
+    {
+      "id": 40,
+      "OTMnomi": "Guliston davlat universiteti",
+      "Viloyati": "Sirdaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://guldu.uz/uz/"
+    },
+    {
+      "id": 41,
+      "OTMnomi": "I.M.Gubkin nomidagi Rossiya davlat neft va gaz universiteti Toshkent shahridagi filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://gubkin.uz/uz/"
+    },
+    {
+      "id": 42,
+      "OTMnomi": "Ijtimoiy va siyosiy fanlar instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://isfi.uz/"
+    },
+    {
+      "id": 43,
+      "OTMnomi": "IMPULS  tibbiyot instituti",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.impulsmi.uz/uz"
+    },
+    {
+      "id": 44,
+      "OTMnomi": "Ipak yo‘li innovatsiyalar universiteti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://iyiu.uz/"
+    },
+    {
+      "id": 45,
+      "OTMnomi": "Iqtisodiyot va pedagogika universiteti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://ipu-edu.uz/"
+    },
+    {
+      "id": 46,
+      "OTMnomi": "IT Park University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://itpu.uz/ru"
+    },
+    {
+      "id": 47,
+      "OTMnomi": "Jahon iqtisodiyoti va diplomatiya universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.uwed.uz/"
+    },
+    {
+      "id": 48,
+      "OTMnomi": "Japan Digital University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.jdu.uz/"
+    },
+    {
+      "id": 49,
+      "OTMnomi": "Jizzax davlat pedagogika universiteti",
+      "Viloyati": "Jizzax viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://jdpu.uz/ru/"
+    },
+    {
+      "id": 50,
+      "OTMnomi": "Jizzax politexnika instituti",
+      "Viloyati": "Jizzax viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://jizpi.uz/"
+    },
+    {
+      "id": 51,
+      "OTMnomi": "Jizzax shahridagi “Qozon (Volgabo‘yi) federal universiteti” federal davlat avtonom oliy ta’lim muassasasining filiali",
+      "Viloyati": "Jizzax viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": null
+    },
+    {
+      "id": 52,
+      "OTMnomi": "Kamoliddin Behzod nomidagi Milliy rassomlik va dizayn instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://mrdi.uz/language/uz/"
+    },
+    {
+      "id": 53,
+      "OTMnomi": "Latviyaning Аxborot tizimlari menejmenti Oliy maktabining Fargʼona shahridagi filiali",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://lex.uz/ru/docs/-3920018"
+    },
+    {
+      "id": 54,
+      "OTMnomi": "M.V.Lomonosov nomidagi Moskva davlat universitetining Toshkent shahridagi filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://msu.uz/"
+    },
+    {
+      "id": 55,
+      "OTMnomi": "Maʼmun universiteti",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://mamunedu.uz/"
+    },
+    {
+      "id": 56,
+      "OTMnomi": "Markaziy Osiyo atrof-muhit va iqlim o‘zgarishini o‘rganish universiteti (Green University)",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.uznature.uz/uz/site/news?id=3785"
+    },
+    {
+      "id": 57,
+      "OTMnomi": "Mehnat va ijtimoiy munosabatlar akademiyasi",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://atso.uz/"
+    },
+    {
+      "id": 58,
+      "OTMnomi": "MEI milliy tadqiqot universiteti Federal davlat byudjeti oliy taʼlim muassasasining Toshkent filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://nsp.gov.uz/organizations/watch?id=6162"
+    },
+    {
+      "id": 59,
+      "OTMnomi": "Millat umidi universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://millatumidi.uz/uz/"
+    },
+    {
+      "id": 60,
+      "OTMnomi": "Mirzo Ulug‘bek nomidagi O‘zbekiston Milliy universiteti Jizzax filiali",
+      "Viloyati": "Jizzax viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://jbnuu.uz/"
+    },
+    {
+      "id": 61,
+      "OTMnomi": "MMFI milliy tadqiqot yadro universiteti federal davlat avtonom oliy taʼlim muassasasining Toshkent shahridagi filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://tashkent.mephi.uz/"
+    },
+    {
+      "id": 62,
+      "OTMnomi": "Namangan davlat chet tillari instituti",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.namsifl.uz/"
+    },
+    {
+      "id": 63,
+      "OTMnomi": "Namangan davlat pedagogika instituti",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.namspi.uz/"
+    },
+    {
+      "id": 64,
+      "OTMnomi": "Namangan davlat universiteti",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://namdu.uz/"
+    },
+    {
+      "id": 65,
+      "OTMnomi": "Namangan muhandislik-qurilish instituti",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://my.nammqi.uz/"
+    },
+    {
+      "id": 66,
+      "OTMnomi": "Namangan muhandislik-texnologiya instituti",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://namdtu.uz/"
+    },
+    {
+      "id": 67,
+      "OTMnomi": "Namangan to'qimachilik sanoati instituti",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.ntsi.uz/"
+    },
+    {
+      "id": 68,
+      "OTMnomi": "Navoiy davlat konchilik  va texnologiyalar universiteti  huzuridagi Nukus konchilik instituti",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://nkski.uz/"
+    },
+    {
+      "id": 69,
+      "OTMnomi": "Navoiy davlat konchilik va texnologiyalar universiteti",
+      "Viloyati": "Navoiy viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://nsumt.uz/"
+    },
+    {
+      "id": 70,
+      "OTMnomi": "Navoiy davlat pedagogika instituti",
+      "Viloyati": "Navoiy viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://nspi.uz/"
+    },
+    {
+      "id": 71,
+      "OTMnomi": "Navoiy innovatsiyalar universiteti",
+      "Viloyati": "Navoiy viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://niuedu.uz/uz/"
+    },
+    {
+      "id": 72,
+      "OTMnomi": "Nukus davlat pedagogika instituti",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://ndpi.uz/uz/"
+    },
+    {
+      "id": 73,
+      "OTMnomi": "Nukus innovatsion instituti",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://nukusii.uz/"
+    },
+    {
+      "id": 74,
+      "OTMnomi": "O‘zbekiston   davlat jismoniy tarbiya va sport universiteti Nukus filiali",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzdjtsunf.uz/"
+    },
+    {
+      "id": 75,
+      "OTMnomi": "O‘zbekiston davlat jahon tillari universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.uzswlu.uz/"
+    },
+    {
+      "id": 76,
+      "OTMnomi": "O‘zbekiston davlat konservatoriyasi",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://konservatoriya.uz/"
+    },
+    {
+      "id": 77,
+      "OTMnomi": "O‘zbekiston davlat san’at va madaniyat instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://dsmi.uz/"
+    },
+    {
+      "id": 78,
+      "OTMnomi": "O‘zbekiston davlat san’at va madaniyat instituti Nukus filiali",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzdsmi-nf.uz/uz/"
+    },
+    {
+      "id": 79,
+      "OTMnomi": "O‘zbekiston davlat san’at va madaniyat institutining Farg‘ona mintaqaviy filiali",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.dsmi-qf.uz/"
+    },
+    {
+      "id": 80,
+      "OTMnomi": "O‘zbekiston jurnalistika va ommaviy kommunikatsiyalar universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzjoku.uz/"
+    },
+    {
+      "id": 81,
+      "OTMnomi": "O‘zbekiston Milliy universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://nuu.uz/"
+    },
+    {
+      "id": 82,
+      "OTMnomi": "O‘zbekiston Respublikasi Huquqni muhofaza qilish akademiyasi",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://proacademy.uz/uz-lat/#main_section"
+    },
+    {
+      "id": 83,
+      "OTMnomi": "O‘zbekiston xalqaro islom akademiyasi",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://iiau.uz/oz"
+    },
+    {
+      "id": 84,
+      "OTMnomi": "O‘zbekiston-Finlyandiya pedagogika instituti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzfi.uz/uz/"
+    },
+    {
+      "id": 85,
+      "OTMnomi": "Oriental universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://orientaluniversity.uz/"
+    },
+    {
+      "id": 86,
+      "OTMnomi": "Osiyo texnologiyalar universiteti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://qitu.uz/cgi-sys/suspendedpage.cgi"
+    },
+    {
+      "id": 87,
+      "OTMnomi": "Osiyo xalqaro universiteti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.oxu.uz/"
+    },
+    {
+      "id": 88,
+      "OTMnomi": "Oxus University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://oxusuniversity.uz/"
+    },
+    {
+      "id": 89,
+      "OTMnomi": "Oʻzbekiston davlat jismoniy tarbiya va sport universiteti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://jtsu.uz/uz"
+    },
+    {
+      "id": 90,
+      "OTMnomi": "Oʻzbekiston davlat jismoniy tarbiya va sport universiteti Fargʻona filiali",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://jtsu.uz/uz"
+    },
+    {
+      "id": 91,
+      "OTMnomi": "Oʻzbekiston davlat konservatoriyasi Nukus filiali",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzdknf.uz/?page_id=648&lang=uz"
+    },
+    {
+      "id": 92,
+      "OTMnomi": "Oʻzbekiston davlat xoreografiya akademiyasi",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzdxa.uz/"
+    },
+    {
+      "id": 93,
+      "OTMnomi": "Oʻzbekiston davlat xoreografiya akademiyasi Urganch filiali",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzdxauf.uz/"
+    },
+    {
+      "id": 94,
+      "OTMnomi": "Oʼzbekistondagi Sharda universiteti",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://www.shardauniversity.uz/"
+    },
+    {
+      "id": 95,
+      "OTMnomi": "Oziq-ovqat texnologiyasi va muhandisligi xalqaro instituti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://iifte.uz/"
+    },
+    {
+      "id": 96,
+      "OTMnomi": "PDP University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://university.pdp.uz/uz"
+    },
+    {
+      "id": 97,
+      "OTMnomi": "Perfect University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tpu.uz/en"
+    },
+    {
+      "id": 98,
+      "OTMnomi": "Pisa university in Tashkent",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://pisa.uz/en"
+    },
+    {
+      "id": 99,
+      "OTMnomi": "Profi University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://profiuniversity.uz/"
+    },
+    {
+      "id": 100,
+      "OTMnomi": "Qarshi davlat universiteti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.qarshidu.uz/oz"
+    },
+    {
+      "id": 101,
+      "OTMnomi": "Qarshi muhandislik-iqtisodiyot instituti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://oliygoh.uz/oliygohlar/qarshi-muhandislik---iqtisodiyot-instituti"
+    },
+    {
+      "id": 102,
+      "OTMnomi": "Qarshi xalqaro universiteti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://kiu.uz/universitet/"
+    },
+    {
+      "id": 103,
+      "OTMnomi": "Qo‘qon davlat pedagogika instituti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://kspi.uz/"
+    },
+    {
+      "id": 104,
+      "OTMnomi": "Qo‘qon universiteti",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.kokanduni.uz/uz"
+    },
+    {
+      "id": 105,
+      "OTMnomi": "Qoraqalpog'iston qishloq xo'jaligi va agrotexnologiyalar instituti",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.agro.uz/toshkent-davlat-agrar-universiteti-nukus-filiali/"
+    },
+    {
+      "id": 106,
+      "OTMnomi": "Qoraqalpogʻiston tibbiyot instituti",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://kkmi.uz/uz/"
+    },
+    {
+      "id": 107,
+      "OTMnomi": "Raqamli iqtisodiyot va agrotexnologiyalar universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://udea.uz/uz/"
+    },
+    {
+      "id": 108,
+      "OTMnomi": "Renessans ta'lim universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://renessans-edu.uz/uz/"
+    },
+    {
+      "id": 109,
+      "OTMnomi": "Rossiya Federatsiyasi Tashqi ishlar vazirligining Moskva davlat xalqaro munosabatlar instituti (universiteti)” Federal davlat avtonom oliy ta’lim muassasasining Toshkent shahridagi filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://akadem.uz/university/rossiya-federatsiyasi-tashqi-ishlar-vazirligining-moskva-davlat-xalqaro-munosabatlar-instituti-universiteti-federal-davlat-avtonom-oliy-talim-muassasasining-toshkent-shahridagi-filiali"
+    },
+    {
+      "id": 110,
+      "OTMnomi": "Samarqand agroinnovatsiyalar va tadqiqotlar instituti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://samaguni.uz/"
+    },
+    {
+      "id": 111,
+      "OTMnomi": "Samarqand davlat arxitektura-qurilish universiteti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.samgasi.uz/"
+    },
+    {
+      "id": 112,
+      "OTMnomi": "Samarqand davlat chet tillar instituti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://samdchti.uz/uz"
+    },
+    {
+      "id": 113,
+      "OTMnomi": "Samarqand davlat tibbiyot universiteti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.sammu.uz/uz"
+    },
+    {
+      "id": 114,
+      "OTMnomi": "Samarqand davlat universiteti Kattaqo‘rg‘on filiali",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://samdukf.uz/"
+    },
+    {
+      "id": 115,
+      "OTMnomi": "Denov tadbirkorlik va pedagogika instituti",
+      "Viloyati": "Surxondaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://dtpi.uz/"
+    },
+    {
+      "id": 116,
+      "OTMnomi": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://ssuv.uz/uz"
+    },
+    {
+      "id": 117,
+      "OTMnomi": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Nukus filiali",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.sdvunf.uz/novosti/"
+    },
+    {
+      "id": 118,
+      "OTMnomi": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Toshkent filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.svmitf.uz/"
+    },
+    {
+      "id": 119,
+      "OTMnomi": "Samarqand iqtisodiyot va servis instituti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.sies.uz/"
+    },
+    {
+      "id": 120,
+      "OTMnomi": "Samarqand Xalqaro Texnologiya Universiteti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://siut.uz/uz/"
+    },
+    {
+      "id": 121,
+      "OTMnomi": "SAMBHRAM universitet",
+      "Viloyati": "Jizzax viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://sambhram.uz/"
+    },
+    {
+      "id": 122,
+      "OTMnomi": "Sarbon universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://sarbon.university/"
+    },
+    {
+      "id": 123,
+      "OTMnomi": "Shahrisabz davlat pedagogika instituti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://shdpi.uz/"
+    },
+    {
+      "id": 124,
+      "OTMnomi": "Sharof Rashidov nomidagi Samarqand davlat universiteti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.samdu.uz/uz"
+    },
+    {
+      "id": 125,
+      "OTMnomi": "Sharof Rashidov nomidagi Samarqand davlat universitetining Urgut filiali",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.samdu.uz/uz"
+    },
+    {
+      "id": 126,
+      "OTMnomi": "STARS International University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://stars.university/"
+    },
+    {
+      "id": 127,
+      "OTMnomi": "Tashkent international university",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.tiu.uz/"
+    },
+    {
+      "id": 128,
+      "OTMnomi": "Tashkent International University of Education xalqaro universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tiue.uz/uz/"
+    },
+    {
+      "id": 129,
+      "OTMnomi": "Tashkent Metropolitan University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tmuni.org/"
+    },
+    {
+      "id": 130,
+      "OTMnomi": "TEAM University",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://teamuni.uz/"
+    },
+    {
+      "id": 131,
+      "OTMnomi": "Termiz davlat muhandislik va agrotexnologiyalar universiteti",
+      "Viloyati": "Surxondaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tdmau.uz/"
+    },
+    {
+      "id": 132,
+      "OTMnomi": "Termiz davlat pedagogika instituti",
+      "Viloyati": "Surxondaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://terdpi.uz/"
+    },
+    {
+      "id": 133,
+      "OTMnomi": "Termiz davlat universiteti",
+      "Viloyati": "Surxondaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tersu.uz/"
+    },
+    {
+      "id": 134,
+      "OTMnomi": "Termiz iqtisodiyot va servis universiteti",
+      "Viloyati": "Surxondaryo viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tues.uz/"
+    },
+    {
+      "id": 135,
+      "OTMnomi": "TMC INSTITUTE",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tmci.uz/"
+    },
+    {
+      "id": 136,
+      "OTMnomi": "Toshkent amaliy fanlar universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://utas.uz/"
+    },
+    {
+      "id": 137,
+      "OTMnomi": "Toshkent arxitektura-qurilish universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://taqu.uz/"
+    },
+    {
+      "id": 138,
+      "OTMnomi": "Toshkent axborot texnologiyalari universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tuit.uz/"
+    },
+    {
+      "id": 139,
+      "OTMnomi": "Toshkent axborot texnologiyalari universiteti Farg‘ona filiali",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tuit.uz/fargona-filiali"
+    },
+    {
+      "id": 140,
+      "OTMnomi": "Toshkent axborot texnologiyalari universiteti Nukus filiali",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tuit.uz/nukus-filiali"
+    },
+    {
+      "id": 141,
+      "OTMnomi": "Toshkent axborot texnologiyalari universiteti Nurafshon filiali",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tuit.uz/nurafshon-filiali"
+    },
+    {
+      "id": 142,
+      "OTMnomi": "Toshkent axborot texnologiyalari universiteti Qarshi filiali",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tuit.uz/qarshi-filiali"
+    },
+    {
+      "id": 143,
+      "OTMnomi": "Toshkent axborot texnologiyalari universiteti Samarqand filiali",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tuit.uz/samarqand-filiali"
+    },
+    {
+      "id": 144,
+      "OTMnomi": "Toshkent axborot texnologiyalari universiteti Urganch filiali",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tuit.uz/urganch-filiali"
+    },
+    {
+      "id": 145,
+      "OTMnomi": "Toshkent davlat agrar universiteti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "Toshkent davlat agrar universiteti"
+    },
+    {
+      "id": 146,
+      "OTMnomi": "Toshkent davlat iqtisodiyot universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tsue.uz/uz"
+    },
+    {
+      "id": 147,
+      "OTMnomi": "Toshkent davlat iqtisodiyot universiteti Samarqand filiali",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://sbtsue.uz/uz"
+    },
+    {
+      "id": 148,
+      "OTMnomi": "Toshkent davlat o‘zbek tili va adabiyoti universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tsuull.uz/"
+    },
+    {
+      "id": 149,
+      "OTMnomi": "Toshkent davlat pedagogika universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.tdpu.uz/"
+    },
+    {
+      "id": 150,
+      "OTMnomi": "Toshkent davlat sharqshunoslik universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tsuos.uz/"
+    },
+    {
+      "id": 151,
+      "OTMnomi": "Toshkent davlat stomatologiya instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tsdi.uz/"
+    },
+    {
+      "id": 152,
+      "OTMnomi": "Toshkent davlat texnika universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.tdtu.uz/"
+    },
+    {
+      "id": 153,
+      "OTMnomi": "Toshkent davlat texnika universiteti Olmaliq filiali",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tdtuof.uz/"
+    },
+    {
+      "id": 154,
+      "OTMnomi": "Toshkent davlat texnika universiteti Qo‘qon filiali",
+      "Viloyati": "Farg‘ona viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tdtukokand.uz/"
+    },
+    {
+      "id": 155,
+      "OTMnomi": "Toshkent davlat transport universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tstu.uz/"
+    },
+    {
+      "id": 156,
+      "OTMnomi": "Toshkent davlat yuridik universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.tsul.uz/uz"
+    },
+    {
+      "id": 157,
+      "OTMnomi": "Toshkent farmatsevtika Instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://pharmi.uz/"
+    },
+    {
+      "id": 158,
+      "OTMnomi": "Toshkent gumanitar fanlar universiteti",
+      "Viloyati": "Qoraqalpog‘iston Resp.",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tgfu.uz/uz/"
+    },
+    {
+      "id": 159,
+      "OTMnomi": "Toshkent ijtimoiy innovatsiya universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tiiu.uz/"
+    },
+    {
+      "id": 160,
+      "OTMnomi": "Toshkent iqtisodiyot va pedagogika instituti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tipi.uz/uz"
+    },
+    {
+      "id": 161,
+      "OTMnomi": "Toshkent iqtisodiyot va texnologiyalari universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://uztitu.uz/uz"
+    },
+    {
+      "id": 162,
+      "OTMnomi": "Toshkent Kimyo xalqaro universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://kiut.uz/uz/"
+    },
+    {
+      "id": 163,
+      "OTMnomi": "Toshkent kimyo-texnologiya instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tkti.uz/uz/"
+    },
+    {
+      "id": 164,
+      "OTMnomi": "Toshkent kimyo-texnologiya instituti Shahrisabz filiali",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://lms.stict.uz/"
+    },
+    {
+      "id": 165,
+      "OTMnomi": "Toshkent kimyo-texnologiya instituti Yangiyer filiali",
+      "Viloyati": "Sirdaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://ticty.uz/"
+    },
+    {
+      "id": 166,
+      "OTMnomi": "Toshkent menedjment va iqtisodiyot instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://timeedu.uz/"
+    },
+    {
+      "id": 167,
+      "OTMnomi": "Toshkent pediatriya tibbiyot instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tashpmi.uz/uz/"
+    },
+    {
+      "id": 168,
+      "OTMnomi": "Toshkent shahrida S.A Gerasimov nomidagi Butunrossiya davlat kinematografiya universitetining birinchi xorijiy filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://vgik-tashkent.uz/uz/asosiy/"
+    },
+    {
+      "id": 169,
+      "OTMnomi": "Toshkent shahridagi “A.I.Gersen nomidagi Rossiya Davlat pedagogika universiteti” Federal davlat budjeti oliy ta’lim muassasasi filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://kun.uz/46427654#!"
+    },
+    {
+      "id": 170,
+      "OTMnomi": "Toshkent shahridagi Adju universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://ajou.uz/uz/"
+    },
+    {
+      "id": 171,
+      "OTMnomi": "Toshkent shahridagi Amiti universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://amity.uz/oz"
+    },
+    {
+      "id": 172,
+      "OTMnomi": "Toshkent shahridagi Belarus-Oʼzbekiston qoʼshma tarmoqlararo amaliy texnik kvalifikatsiyalar instituti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://www.sbumiptk.uz/"
+    },
+    {
+      "id": 173,
+      "OTMnomi": "Toshkent shahridagi Inha Universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://inha.uz/uz/universitet/iut-haqida/"
+    },
+    {
+      "id": 174,
+      "OTMnomi": "Toshkent shahridagi Puchon universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://bucheon.uz/uz"
+    },
+    {
+      "id": 175,
+      "OTMnomi": "Toshkent shahridagi Singapur Menejmentni rivojlantirish instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://www.mdis.uz/"
+    },
+    {
+      "id": 176,
+      "OTMnomi": "Toshkent shahridagi Turin politexnika universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://turin.uz/"
+    },
+    {
+      "id": 177,
+      "OTMnomi": "Toshkent shahridagi Turkiyaning iqtisodiyot va texnologiyalar universiteti filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://oliygoh.uz/post/turkiyaning-iqtisodiyot-va-texnologiyalar-universitet"
+    },
+    {
+      "id": 178,
+      "OTMnomi": "Toshkent shahridagi Vebster universitetining taʼlim dasturlarini amalga oshirish markazi",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://www.webster.uz/"
+    },
+    {
+      "id": 179,
+      "OTMnomi": "Toshkent tibbiyot akademiyasi",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tma.uz/"
+    },
+    {
+      "id": 180,
+      "OTMnomi": "Toshkent tibbiyot akademiyasi Termiz filiali",
+      "Viloyati": "Surxondaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://ttatf.uz/uz/"
+    },
+    {
+      "id": 181,
+      "OTMnomi": "Toshkent tibbiyot akademiyasi Urganch filiali",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.urgfiltma.uz/uz-latin"
+    },
+    {
+      "id": 182,
+      "OTMnomi": "Toshkent to‘qimachilik va yengil sanoat instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://ttysi.uz/oz"
+    },
+    {
+      "id": 183,
+      "OTMnomi": "Toshkent xalqaro moliyaviy boshqaruv va texnologiyalar universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tift.uz/page/privacy-policy"
+    },
+    {
+      "id": 184,
+      "OTMnomi": "Toshkent Xalqaro Vestminster Universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://wiut.uz/"
+    },
+    {
+      "id": 185,
+      "OTMnomi": "Turan International University",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://tiu-edu.uz/uz/"
+    },
+    {
+      "id": 186,
+      "OTMnomi": "Turon universiteti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://turonuniversity.uz/en"
+    },
+    {
+      "id": 187,
+      "OTMnomi": "University of Business and Science",
+      "Viloyati": "Namangan viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://ubsu.uz/uz"
+    },
+    {
+      "id": 188,
+      "OTMnomi": "University of economics and pedagogy",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://ipu-edu.uz/en/"
+    },
+    {
+      "id": 189,
+      "OTMnomi": "University of Business and Science",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://ubsu.uz/uz"
+    },
+    {
+      "id": 190,
+      "OTMnomi": "University of science and technologies",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://usat.uz/"
+    },
+    {
+      "id": 191,
+      "OTMnomi": "Urganch davlat pedagogika instituti",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://www.urspi.uz/uz"
+    },
+    {
+      "id": 192,
+      "OTMnomi": "Urganch davlat universiteti",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://urdu.uz/uz"
+    },
+    {
+      "id": 193,
+      "OTMnomi": "Urganch Innovatsion Universiteti",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://uriu.uz/uz/"
+    },
+    {
+      "id": 194,
+      "OTMnomi": "Urganch RANCH texnologiya universiteti",
+      "Viloyati": "Xorazm viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.utu-ranch.uz/"
+    },
+    {
+      "id": 195,
+      "OTMnomi": "Xalqaro innovatsion universitet",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://xiuedu.uz/uz/"
+    },
+    {
+      "id": 196,
+      "OTMnomi": "Xalqaro Nordik universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://nordicuniversity.org/uz"
+    },
+    {
+      "id": 197,
+      "OTMnomi": "Xalqaro qishloq xo'jaligi universiteti",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://iau.uz/"
+    },
+    {
+      "id": 198,
+      "OTMnomi": "Yangi Asr Universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://yangiasr.uz/uz/"
+    },
+    {
+      "id": 199,
+      "OTMnomi": "Yangi O'zbekiston universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://newuu.uz/"
+    },
+    {
+      "id": 200,
+      "OTMnomi": "Yunus Rajabiy nomidagi O‘zbek milliy musiqa sanʼati instituti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://uzmmsi.uz/"
+    },
+    {
+      "id": 201,
+      "OTMnomi": "Zarmed Universiteti",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Nodavlat",
+      "api": "https://www.zarmeduniver.com/src/"
+    },
+    {
+      "id": 202,
+      "OTMnomi": "\"Ipak yo‘li\" turizm va madaniy meros xalqaro universiteti",
+      "Viloyati": "Samarqand viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://univ-silkroad.uz/uz/"
+    },
+    {
+      "id": 203,
+      "OTMnomi": "\"TIQXMMI\" Milliy tadqiqot universitetining Qarshi irrigatsiya va agrotexnologiyalar instituti",
+      "Viloyati": "Qashqadaryo viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tiiamekb.uz/"
+    },
+    {
+      "id": 204,
+      "OTMnomi": "\"TIQXMMI\" MTU Buxoro tabiiy resurslarni boshqarish instititi",
+      "Viloyati": "Buxoro viloyati",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tiiamekb.uz/"
+    },
+    {
+      "id": 205,
+      "OTMnomi": "\"Toshkent irrigatsiya va qishloq xoʻjaligini mexanizatsiyalashtirish muhandislari instituti\" milliy tadqiqot universiteti",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Davlat",
+      "api": "https://tiiamebb.uz/"
+    },
+    {
+      "id": 206,
+      "OTMnomi": "“Collegium Humanum” Varshava menejment universiteti Andijon filiali",
+      "Viloyati": "Andijon viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://kursim.uz/listing/collegium-humanum-varshava-menejment-universitetining-andijon-filiali/"
+    },
+    {
+      "id": 207,
+      "OTMnomi": "«Sankt-Peterburg davlat universiteti» Federal davlat byudjeti oliy taʼlim muassasasi Toshkent shahridagi filiali",
+      "Viloyati": "Toshkent shahri",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://tashkent.spbu.ru/uz"
+    },
+    {
+      "id": 208,
+      "OTMnomi": "M. Аuezov nomidagi Janubiy Qozogʼiston universitetining Chirchiq shahridagi filiali",
+      "Viloyati": "Toshkent viloyati",
+      "Mulkchilikshakli": "Xorijiy",
+      "api": "https://gov.uz/oz/edu/news/view/17476"
+    }
+  ],
+  "sqlite_sequence": [
+    {
+      "name": "oliy_talim_muassasalari",
+      "seq": 208
+    }
+  ]
+}
