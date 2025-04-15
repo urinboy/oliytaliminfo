@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oliy ta'lim muassasalari - Android ilova</title>
+    <style>
+        :root {
+            --primary-color: #006CB9;
+            --text-color: #333;
+            --bg-color: #f5f5f5;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .app-info {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .app-screenshot {
+            text-align: center;
+        }
+
+        .app-screenshot img {
+            max-width: 300px;
+            border-radius: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .features {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 2rem;
+        }
+
+        .feature-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .feature-list li {
+            margin-bottom: 1rem;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+
+        .feature-list li::before {
+            content: "✓";
+            color: var(--primary-color);
+            position: absolute;
+            left: 0;
+        }
+
+        .download-section {
+            text-align: center;
+            margin-top: 2rem;
+        }
+
+        .download-button {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+
+        .download-button:hover {
+            transform: translateY(-2px);
+        }
+
+        footer {
+            background-color: var(--primary-color);
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+
+        .contact-info {
+            margin-top: 1rem;
+        }
+
+        .contact-info a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        @media (max-width: 768px) {
+            .app-info {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Oliy ta'lim muassasalari</h1>
+        <p>O'zbekiston oliy ta'lim muassasalari haqida ma'lumot beruvchi mobil ilova</p>
+    </header>
+
+    <div class="container">
+        <div class="app-info">
+            <div class="app-description">
+                <h2>Ilova haqida</h2>
+                <p>O'zbekistondagi barcha oliy ta'lim muassasalari haqida ma'lumot olish uchun mo'ljallangan Android ilovasi. Ilova orqali siz quyidagi imkoniyatlarga ega bo'lasiz:</p>
+                <ul class="feature-list">
+                    <li>Barcha OTMlar ro'yxatini ko'rish</li>
+                    <li>Davlat va nodavlat OTMlarini alohida ko'rish</li>
+                    <li>OTM nomlari bo'yicha qidiruv</li>
+                    <li>OTM rasmiy veb-sahifalariga o'tish</li>
+                    <li>Internet aloqasisiz ham ma'lumotlardan foydalanish</li>
+                    <li>Qulay va zamonaviy interfeys</li>
+                </ul>
+            </div>
+            <div class="app-screenshot">
+                <img src="app_screenshot.png" alt="Ilova ko'rinishi">
+            </div>
+        </div>
+
+        <div class="features">
+            <h2>Asosiy xususiyatlari</h2>
+            <ul class="feature-list">
+                <li>Offline rejimda ishlash imkoniyati</li>
+                <li>Tezkor va qulay qidiruv tizimi</li>
+                <li>OTMlarni hududlar bo'yicha ko'rish</li>
+                <li>Rasmiy veb-sahifalarga oson o'tish</li>
+                <li>Zamonaviy Material Design dizayni</li>
+                <li>Kichik hajmli va tez ishlaydigan ilova</li>
+            </ul>
+        </div>
+
+        <div class="download-section">
+            <a href="https://play.google.com/store/apps/details?id=uz.urinboydev.oliytaliminfo" class="download-button">
+                Google Play dan yuklab olish
+            </a>
+        </div>
+    </div>
+
+    <footer>
+        <div class="contact-info">
+            <p>Dasturchi: Urinboy Xo'jayev</p>
+            <a href="mailto:urinboy@gmail.com">Email: urinboy@gmail.com</a>
+            <a href="https://t.me/urinboy">Telegram: @urinboy</a>
+            <p>© 2024 Oliy ta'lim muassasalari. Barcha huquqlar himoyalangan.</p>
+        </div>
+    </footer>
+</body>
+</html>
