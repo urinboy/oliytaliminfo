@@ -1,8 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Oliy Ta\'lim Info</string>
+    <string name="app_name">Oliy Ta’lim Info</string>
     <string name="search_hint">OTM qidirish</string>
     <string name="all_universities">Barcha OTMlar</string>
     <string name="state_universities">Davlat</string>
     <string name="private_universities">Nodavlat</string>
     <string name="visit_website">Veb-saytga o\'tish</string>
+
+    <string name="about_app">Dastur haqida</string>
+    <string name="version">Versiya %1$s</string>
+    <string name="app_description">O‘zbekistondagi barcha oliy ta’lim muassasalari haqida ma’lumot beruvchi mobil ilova.</string>
+    <string name="app_features">• Barcha OTMlar ro\'yxati\n• Davlat va nodavlat OTMlar\n• Qulay qidiruv tizimi\n• Offline rejimda ishlash\n• Zamonaviy interfeys</string>
+
+    <string name="developer">Dasturchi</string>
+    <string name="developer_name">Kamilboyeva Kumushoy</string>
+    <string name="developer_info">Men TATU Urganch filialida oʼqiman. Bu dastur orqali oliy taʼlim muassasalari haqida maʼlumotlarni bir joyga jamladim.</string>
+    <string name="developer_phone">+998 99 155 96 66</string>
+    <string name="call">Qo‘ng‘iroq qilish</string>
+    <string name="email">Email</string>
+    <string name="telegram">Telegram</string>
+
+    <string name="email_subject">Oliy Ta\'lim Info ilovasi haqida</string>
+    <string name="email_chooser">Email yuborish</string>
+    <string name="telegram_not_found">Telegram ilovasi topilmadi</string>
+    <string name="features">Asosiy xususiyatlari</string>
+    <string name="about">Ilova haqida</string>
 </resources>
